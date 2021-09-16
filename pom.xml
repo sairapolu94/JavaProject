@@ -1,0 +1,19 @@
+<project>
+
+<!-- Pom Xml Version -->
+
+<modelVersion>4.0.0</modelVersion>
+
+<!-- Org name -->
+
+<groupId>com.org.sai</groupId>
+
+<!-- Project Name -->
+
+<artifactId> mymavenproject </artifactId>
+
+<!-- Version of artifact or release -->
+
+<version>1.0</version>
+
+</project>
